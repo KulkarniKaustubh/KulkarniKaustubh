@@ -16,13 +16,6 @@ I've been playing Table Tennis 🏓 since I was 6 years old and have represented
 
 <div align="center">
 
-#### 📝 Papers Published
-
-[<img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />](https://www.researchgate.net/profile/Kaustubh-Kulkarni-15)
-
-[Table Tennis Stroke Recognition Using Two-Dimensional Human Pose Estimation](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/html/Kulkarni_Table_Tennis_Stroke_Recognition_Using_Two-Dimensional_Human_Pose_Estimation_CVPRW_2021_paper.html) <br>
-<sub>*Proceedings of the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*</sub>
-
 #### Languages
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -47,6 +40,13 @@ I've been playing Table Tennis 🏓 since I was 6 years old and have represented
 
 <img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+
+#### 📝 Papers Published
+
+[<img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />](https://www.researchgate.net/profile/Kaustubh-Kulkarni-15)
+
+[Table Tennis Stroke Recognition Using Two-Dimensional Human Pose Estimation](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/html/Kulkarni_Table_Tennis_Stroke_Recognition_Using_Two-Dimensional_Human_Pose_Estimation_CVPRW_2021_paper.html) <br>
+<sub>*Proceedings of the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*</sub>
 
 #### 📈  GitHub Stats
 
