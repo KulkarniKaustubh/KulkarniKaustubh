@@ -7,7 +7,6 @@
 I'm a CSE undergrad student at PES University, Bangalore.
 
 - 🔭 Computer vision enthusiast looking to work on innovative new ideas
-- 🌱 Currently learning `Rust` and `ROS`
 - 📖 Reading lots of new research papers!
 
 I've been playing Table Tennis 🏓 since I was 6 years old and have represented Karnataka in multiple national level tournaments!
