@@ -1,8 +1,4 @@
-<div align="center">
-
 ### Hey there! 👋
-
-</div>
 
 I'm a CSE undergrad student at PES University, Bangalore.
 
@@ -10,9 +6,6 @@ I'm a CSE undergrad student at PES University, Bangalore.
 - 📖 Reading lots of new research papers!
 
 I've been playing Table Tennis 🏓 since I was 6 years old and have represented Karnataka in multiple national level tournaments!
-
-
-<div align="center">
 
 #### Languages
 
@@ -68,4 +61,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
