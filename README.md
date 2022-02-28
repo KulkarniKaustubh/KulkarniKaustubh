@@ -1,6 +1,5 @@
 ### Hey there! 👋
-
-I'm a CSE undergrad student at PES University, Bangalore.
+I'm a CSE undergrad student at PES University, Bangalore. <img width="200" height="200" align="right" src="https://c.tenor.com/FcvoMZ_KFZgAAAAC/bigdream247.gif">
 
 - 🔭 Computer vision enthusiast looking to work on innovative new ideas
 - 📖 Reading lots of new research papers!
