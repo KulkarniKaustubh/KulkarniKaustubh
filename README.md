@@ -33,6 +33,9 @@ I've been playing Table Tennis 🏓 since I was 6 years old and have represented
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kaustubh-milind-kulkarni)
 [<img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://www.kmkapril15@gmail.com)
+
+*I use Arch btw*
+
 <!--
 **KulkarniKaustubh/KulkarniKaustubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
