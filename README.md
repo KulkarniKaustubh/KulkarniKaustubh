@@ -1,8 +1,8 @@
 ### Hey there! 👋
-I'm a CSE undergrad student at PES University, Bangalore. <img width="200" height="200" align="right" src="https://c.tenor.com/FcvoMZ_KFZgAAAAC/bigdream247.gif">
+I'm a CSE undergraduate from PES University, Bangalore. <img width="200" height="200" align="right" src="https://c.tenor.com/FcvoMZ_KFZgAAAAC/bigdream247.gif">
 
-- 🔭 Computer vision enthusiast looking to work on innovative new ideas
-- 📖 Reading lots of new research papers!
+- Computer vision enthusiast looking to work on innovative new ideas
+- Learning the keyboard, music theory, and music production!
 
 I've been playing Table Tennis 🏓 since I was 6 years old and have represented Karnataka in multiple national level tournaments!
 
