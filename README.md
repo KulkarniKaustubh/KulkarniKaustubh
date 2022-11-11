@@ -3,6 +3,7 @@ I'm a CSE undergraduate from PES University, Bangalore. <img width="200" height=
 
 - Computer vision enthusiast looking to work on innovative new ideas
 - Learning the keyboard, music theory, and music production!
+- Working at TruckX Inc. as an AI/ML Developer
 
 I've been playing Table Tennis 🏓 since I was 6 years old and have represented Karnataka in multiple national level tournaments!
 
