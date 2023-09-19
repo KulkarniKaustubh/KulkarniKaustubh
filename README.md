@@ -1,6 +1,6 @@
 ### Hey there! 👋
-I'm a CSE undergraduate from PES University, Bangalore. <img width="200" height="200" align="right" src="https://c.tenor.com/FcvoMZ_KFZgAAAAC/bigdream247.gif">
-Currently studying a master's in computer science at the University of Colorado, Boulder
+I'm a CSE undergraduate from PES University, Bangalore. <img width="200" height="200" align="right" src="https://c.tenor.com/FcvoMZ_KFZgAAAAC/bigdream247.gif"> <br>
+Currently studying a Master's in Computer Science at the University of Colorado, Boulder
 
 - Computer vision enthusiast looking to work on innovative new ideas
 - Learning the keyboard, music theory, and music production!
@@ -23,10 +23,10 @@ I've been playing Table Tennis 🏓 since I was 6 years old and have represented
 
 [<img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />](https://www.researchgate.net/profile/Kaustubh-Kulkarni-15)
 
-[Table Tennis Stroke Recognition Using Two-Dimensional Human Pose Estimation](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/html/Kulkarni_Table_Tennis_Stroke_Recognition_Using_Two-Dimensional_Human_Pose_Estimation_CVPRW_2021_paper.html) <br>
+- [Table Tennis Stroke Recognition Using Two-Dimensional Human Pose Estimation](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/html/Kulkarni_Table_Tennis_Stroke_Recognition_Using_Two-Dimensional_Human_Pose_Estimation_CVPRW_2021_paper.html) <br>
 <sub>*Proceedings of the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*</sub>
 
-[Table Tennis Stroke Recognition Using Two-Dimensional Human Pose Estimation](https://arxiv.org/abs/2302.09657) <br>
+- [Table Tennis Stroke Recognition Using Two-Dimensional Human Pose Estimation](https://arxiv.org/abs/2302.09657) <br>
 
 #### 📈  GitHub Stats
 
